@@ -1,0 +1,6 @@
+[02:42:32] [INFO ] Loaded script startup_scripts:remove_ores.js in 0.225 s
+[02:42:32] [INFO ] Loaded script startup_scripts:startingitems.js in 0.007 s
+[02:42:32] [INFO ] Loaded script startup_scripts:custom_items.js in 0.006 s
+[02:42:32] [INFO ] Loaded script startup_scripts:custom_drops.js in 0.012 s
+[02:42:32] [INFO ] Loaded script startup_scripts:squidspawn.js in 0.001 s
+[02:42:32] [INFO ] Loaded 5/5 KubeJS startup scripts in 0.549 s
